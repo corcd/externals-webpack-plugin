@@ -1,0 +1,27 @@
+{
+  "name": "@gdyfe/externals-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack externals 资源加载控制器",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "src/index.js",
+  "author": "Whzcorcd <whzcorcd@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "externals"
+  ],
+  "peerDependencies": {
+    "webpack": ">=2"
+  },
+  "dependencies": {
+    "webpack": "^4.33.0",
+    "webpack-sources": "^1.1.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
