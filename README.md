@@ -25,7 +25,7 @@ npm i -D @gdyfe/externals-webpack-plugin
 ## Usage
 
 ``` js
-const ExternalsPlugin = require('externals-webpack-plugin')
+const ExternalsPlugin = require('@gdyfe/externals-webpack-plugin')
 
 module.exports = {
     entry: {
